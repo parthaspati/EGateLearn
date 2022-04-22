@@ -1,0 +1,23 @@
+body {
+  background-color: powderblue;
+  /* border-left: 100cm;
+  border-right: 100cm;
+  //border-top: 100cm;
+  border-bottom: 100cm; */
+  margin-left: 2cm;
+  margin-right: 2cm;
+  //margin-top: 2cm;
+  margin-right: 2cm;
+  
+}
+h1 {
+  color: blue;
+  font-family: verdana;
+  font-size: 200%;
+}
+p {
+  color: black;
+  font-family: courier;
+  font-size: 150%;
+  text-align: justify;
+}
